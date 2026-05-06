@@ -1,5 +1,5 @@
 // Dynamic Typing Effect
-const roles = ["Entrepreneur", "AI/ML Engineer", "Game Developer"];
+const roles = ["Entrepreneur", "AI/ML Engineer", "Game Developer"]; 
 let roleIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
